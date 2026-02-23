@@ -12,5 +12,4 @@ def main():
     print("Sum:", add(x, y))
     print("Difference:", subtract(x, y))
 
-if __name__ == "__main__":
-    main()
+main()
